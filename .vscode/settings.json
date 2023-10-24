@@ -1,0 +1,6 @@
+{
+  "editor.guides.bracketPairs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": ["configuracion", "mandarlo"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
